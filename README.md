@@ -21,7 +21,7 @@
 7. CLP => Chile
 
 ### Uso
-1. Se le presenta al usuario el siguiente menú:
+a. Se le presenta al usuario el siguiente menú:
 
    Bienvenido al conversor de monedas
    1. Dólar a real brasileño
@@ -40,9 +40,9 @@
    14. Para finalizar el programa
    **Elige una opción para continuar**
 
-2. El usuario puede escoger cualquiera de las opciones disponibles ingresando el número (1-14).
-3. Luego debe digitar el valor de dinero que desea convertir.
-4. El usuario puede consultar el historial digitando la opción (13) o finalizar la aplicación con la opción (14).
+b. El usuario puede escoger cualquiera de las opciones disponibles ingresando el número (1-14).
+c. Luego debe digitar el valor de dinero que desea convertir.
+d. El usuario puede consultar el historial digitando la opción (13) o finalizar la aplicación con la opción (14).
 
 ### Screenshot
 ![Captura de pantalla del programa](images/Captura.PNG)
