@@ -41,7 +41,9 @@ a. Se le presenta al usuario el siguiente menú:
    **Elige una opción para continuar**
 
 b. El usuario puede escoger cualquiera de las opciones disponibles ingresando el número (1-14).
+
 c. Luego debe digitar el valor de dinero que desea convertir.
+
 d. El usuario puede consultar el historial digitando la opción (13) o finalizar la aplicación con la opción (14).
 
 ### Screenshot
