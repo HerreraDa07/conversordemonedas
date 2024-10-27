@@ -45,5 +45,5 @@
 4. El usuario puede consultar el historial digitando la opción (13) o finalizar la aplicación con la opción (14)
 
 ### Screenshot
-![Captura de pantalla del programa](images/Captura.png)
-![Captura de pantalla del historial del programa](images/Captura2.png)
+![Captura de pantalla del programa](images/Captura.PNG)
+![Captura de pantalla del historial del programa](images/Captura2.PNG)
