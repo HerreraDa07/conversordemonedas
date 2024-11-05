@@ -62,9 +62,7 @@ public class Conversor {
                     System.out.println(moneda);
                     LocalDateTime tiempo = LocalDateTime.now();
                     DateTimeFormatter formato = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
-                    historial.add("Moneda de cambio: " + conversion[0] + " a " + "moneda a cambiar: " + conversion[1] + "\n" +
-                            "Valor de la moneda de cambio: " + cantidad + " valor de la conversión: " + moneda.conversion_result() + "\n" +
-                            "Fecha y hora que se realizó la conversión: " + tiempo.format(formato) + "\n");
+                    historial.add("Moneda de cambio: " + conversion[0] + " a " + "moneda a cambiar: " + conversion[1] + "\n" + "Valor de la moneda de cambio: " + cantidad + " valor de la conversión: " + moneda.conversion_result() + "\n" + "Fecha y hora que se realizó la conversión: " + tiempo.format(formato) + "\n");
                 } else if (opcion == 13) {
                     System.out.println("Historial de las conversiones de monedas que ha realizado:\n");
                     for (String datos : historial) {
